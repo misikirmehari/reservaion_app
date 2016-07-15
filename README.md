@@ -1,24 +1,22 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+== Reservation_app
 
-Things you may want to cover:
+This is a Ruby on Rails application I developed as part of the
+[Building the Toolbelt of a Junior Ruby on Rails Engineer](http://www.davincicoders.com/programs#level_2)
+class I took in the Summer of 2016.
 
-* Ruby version
+Features:
 
-* System dependencies
+  TBD
 
-* Configuration
+Usage:
 
-* Database creation
+  Clone the Repo locally
+  cd into that directory
+  
+    bundle
+    
+    rails s
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+  Visit your copy at http://localhost:3000/
